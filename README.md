@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samidsheikh" alt="samidsheikh" /></a> </p>
 
-- 🔭 I’m currently working on **Named Entity Recognition**
+- 🔭 I’m currently working on **Named Entity Recognition Project Based on LLM**
 
 - 🌱 I’m currently learning **Big Data Analyticts in C-DAC Hyderabad**
 
