@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samid Sheikh</h1>
-<h3 align="center">A Aspiring Data Scientist </h3>
+<h3 align="center">An Aspiring Data Scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samidsheikh&label=Profile%20views&color=0e75b6&style=flat" alt="samidsheikh" /> </p>
 
